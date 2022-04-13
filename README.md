@@ -1,6 +1,8 @@
 # fama-macbeth
 Testing asset pricing models using the Fama-MacBeth methodology.
 
+Part of a project for the Asset Pricing & Risk module at the University of Warwick (MSc Mathematical Finance).
+
 Considered three models:
 - Capital Asset Pricing Model (CAPM)
 - Fama-French Three Factor Model
